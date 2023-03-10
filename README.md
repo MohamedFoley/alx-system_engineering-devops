@@ -1,6 +1,8 @@
 # This is the ALX Shell Projects
 
-Link to The  Projects  [ALX Shell, basics]( https://intranet.alxswe.com/projects/205 "Shell, basics")..
+Links to The  Projects 
+
+[ALX 0x00. Shell, basics]( https://intranet.alxswe.com/projects/205 "0x00. Shell, basics")..
 
 [ALX 0x01. Shell, permissions]( https://intranet.alxswe.com/projects/207 "0x01. Shell, permissions")..
 
